@@ -61,6 +61,14 @@ main {
   background: #2c9a94;
 }
 
+#controls #lookup-cities {
+  background: #4299e1;
+}
+
+#controls #lookup-cities:hover {
+  background: #3182ce;
+}
+
 #result {
   overflow-x: auto;
 }
